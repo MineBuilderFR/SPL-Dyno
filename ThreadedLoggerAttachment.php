@@ -15,8 +15,8 @@
  *
  * This program is based on PocketMine Software and Synapse.
  *
- * @copyright (c) 2018
- * @author Y&SS-MineBuilderFR
+ * @copyright (c) 2020
+ * @author Y&SS-YassLV
  */
 
 abstract class ThreadedLoggerAttachment extends \Threaded implements \LoggerAttachment
